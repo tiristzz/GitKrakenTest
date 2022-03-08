@@ -23,7 +23,7 @@
 
 
 -(void)addTest{
-    
+    NSLog(@"hha");
 }
 
 @end
