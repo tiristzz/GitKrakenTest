@@ -20,6 +20,8 @@
     
     NSLog(@"STASH");
     
+    NSLog(@"sd");
+    
     NSLog(@"stash 后 代码");
 }
 
