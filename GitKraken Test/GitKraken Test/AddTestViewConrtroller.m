@@ -19,6 +19,8 @@
     NSLog(@"OMG");
     
     NSLog(@"STASH");
+    
+    NSLog(@"stash 后 代码");
 }
 
 /*
